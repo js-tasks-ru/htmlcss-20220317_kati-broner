@@ -1,0 +1,40 @@
+.header  {
+  background-color: red;
+}
+h1 {
+  color: white;
+  text-align: center;
+
+}
+nav {
+  position: relative;
+  background-color: sandybrown;
+  overflow: hidden;
+}
+.navbar {
+  text-align: center;
+}
+.active {
+  color: white;
+}
+.main {
+  background-color: green;
+}
+#art1 {
+
+  background-color: blue;
+  color: white;
+  margin: 10px;
+}
+#art2 {
+
+  background-color: blue;
+  color: white;
+  margin: 10px;
+  margin-bottom: 10px;
+}
+.footer {
+  color: white;
+  text-align: center;
+  background-color: blueviolet;
+}
