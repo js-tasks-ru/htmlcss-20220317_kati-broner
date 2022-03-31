@@ -10,11 +10,7 @@
   line-height: 19px;
   font-family: Roboto;
 
-  text-align: center;
 
-  cursor: pointer;
-  --secondary-hover-color: #5028C6;
-  --primary-hover-color: #2342C0;
   transition: var(--transition-button);
   --secondary-hover: var(--secondary-hover-color);
   --primary-hover: var(--primary-hover-color);
