@@ -20,10 +20,19 @@
 
     --primary: var(--blue);
     --secondary: var(--purple);
-    
+
       text-align: center;
 
       cursor: pointer;
+     --secondary-hover: var(--secondary-hover-color);
+     --primary-hover: var(--primary-hover-color);
+     --alternate-hover-border: var(--grey-4);
+     --alternate-hover: var(--white);
+     --alternate: var(--white);
+     --primary-text: var(--white);
+     --secondary-text: var(--white);
+     --alternate-text: var(--grey-4);
+     --alternate-border: var(--grey-3);
 
 
 }

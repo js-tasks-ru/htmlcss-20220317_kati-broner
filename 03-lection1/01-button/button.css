@@ -12,15 +12,7 @@
 
 
   transition: var(--transition-button);
-  --secondary-hover: var(--secondary-hover-color);
-  --primary-hover: var(--primary-hover-color);
-  --alternate-hover-border: var(--grey-4);
-  --alternate-hover: var(--white);
-  --alternate: var(--white);
-  --primary-text: var(--white);
-  --secondary-text: var(--white);
-  --alternate-text: var(--grey-4);
-  --alternate-border: var(--grey-3);
+  
 }
 
 .button:disabled {
