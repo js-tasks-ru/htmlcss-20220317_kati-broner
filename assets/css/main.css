@@ -11,12 +11,30 @@
     --grey-2: #DDE2E5;
     --grey-3: #ACB5BD;
     --grey-4: #495057;
+    -accordeon-text: #495057;
 
     --error: var(--red);
     --success: var(--blue);
+    --secondary-hover-color: #5028C6;
+    --primary-hover-color: #2342C0;
 
     --primary: var(--blue);
     --secondary: var(--purple);
+
+      text-align: center;
+
+      cursor: pointer;
+     --secondary-hover: var(--secondary-hover-color);
+     --primary-hover: var(--primary-hover-color);
+     --alternate-hover-border: var(--grey-4);
+     --alternate-hover: var(--white);
+     --alternate: var(--white);
+     --primary-text: var(--white);
+     --secondary-text: var(--white);
+     --alternate-text: var(--grey-4);
+     --alternate-border: var(--grey-3);
+
+
 }
 
 * {
